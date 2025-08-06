@@ -77,7 +77,7 @@ This project is a digital distance measuring system built with Arduino Uno, an u
 
 ## 🖥️ Simulation
 
-You can test this project in [Tinkercad Circuits]([https://www.tinkercad.com/](https://www.tinkercad.com/things/8u9eFpkB14Y/editel?returnTo=%2Fdashboard&sharecode=FBCp8peBNO0uVE9HTSugmXdO7Nw_jP0k93XFGcYLJFU)) using the provided link.
+You can test this project in [Tinkercad Circuits](https://www.tinkercad.com/things/8u9eFpkB14Y/editel?returnTo=%2Fdashboard&sharecode=MzqeIYMaxy7LINu7P34K6W9hjUZ7HflFXE4Xrlz_kJw) using the provided link.
 
 ## 🙌 Acknowledgments
 
